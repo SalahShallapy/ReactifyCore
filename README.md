@@ -60,33 +60,6 @@ ReactifyCore
     │   └───Header
     │           Header.jsx
     │           Header.css
-
-
-
-
-
-
-│
-├───assets
-│ components.png
-│ config.png
-│ header.png
-│ jsx-ui.svg
-│ react-core-concepts.png
-│ state-mgmt.png
-│ tabbed.png
-│
-├───components
-│ │ Core_concepts.jsx
-│ │ CoreConcepts.jsx
-│ │ Examples.jsx
-│ │ Section.jsx
-│ │ TabButton.jsx
-│ │ Tabs.jsx
-│ │
-│ └───Header
-│ Header.jsx
-│ Header.css
 ```
 
 ## Installation
