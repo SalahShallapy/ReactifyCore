@@ -72,7 +72,7 @@ To get started with the project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ReactCorePlayground
+   cd ReactifyCore
    ```
 3. Install dependencies:
    ```bash
