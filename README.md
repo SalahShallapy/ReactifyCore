@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://reactifycore.web.app">
-    <img src="/src/assets/react-core-concepts.png alt="Logo" height="80"  >
+    <img src="/src/assets/react-core-concepts.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">ReactifyCore</h1>
 
