@@ -1,8 +1,23 @@
-# ReactifyCore
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://reactifycore.web.app">
+    <img src="/src/assets/react-core-concepts.png alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">ReactifyCore</h1>
+
+  <p align="center">
+    <a href="https://reactifycore.web.app">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/ReactifyCore/issues">Report Bug</a>
+  </p>
+</div>
 
 ReactifyCore is a responsive and modern React application built to demonstrate and explore essential React concepts. With an interactive design, it provides dynamic examples and an engaging interface to help developers grasp the fundamentals of React.
 
